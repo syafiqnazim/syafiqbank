@@ -6,9 +6,13 @@ https://github.com/syafiqnazim/syafiqbank-react
 
 ## Endpoint
 
-After cloning this project, run it through your localhost and the endpoint will be:-
+After cloning this project, run it through your localhost and the default endpoint will be:-
 
 http://localhost:8080
+
+This project is being done using Java Spring Boot framework.
+
+Database used for this project is H2 which has been embedded in Spring Boot. Each time you restart this project the database will refresh too.
 
 ## API List
 
